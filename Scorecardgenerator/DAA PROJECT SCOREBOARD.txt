@@ -1,0 +1,53 @@
+
+              INDIA VS AUSTRALIA ODI, 1ST INNINGS SCOREBOARD
+              ----------------------------------------------
+
+
+BATTING SCORECARD
+-----------------
+
+Batsman             Runs    Balls   Fours   Sixes   Dots    S.Rate  
+
+
+Shikhar Dhawan      16      27      2       0       16      59.2593 
+Shubman Gill        33      39      3       1       22      84.6154 
+Virat Kohli (capt)  63      78      5       0       33      80.7692 
+Shreyas Iyer        19      21      2       0       7       90.4762 
+KL Rahul (wk)       5       11      0       0       6       45.4545 
+Hardik Pandya       92      76      7       1       22      121.053 
+Ravindra Jadeja     66      50      5       3       16      132     
+Shardul Thakur      0       0       0       0       0       0       
+Kuldeep Yadav       0       0       0       0       0       0       
+Jasprit Bumrah      0       0       0       0       0       0       
+T Natarajan.        0       0       0       0       0       0       
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+BOWLING SCORECARD
+-----------------
+
+Bowler              Overs   Wickets Runs    Wide    N.Balls Byes    E.Rate  
+
+
+Aaron Finch (capt)  0       0       0       0       0       0       0       
+Marnus Labuschagne  0       0       0       0       0       0       0       
+Steven Smith        0       0       0       0       0       0       0       
+Cameron Green       4       0       27      0       1       0       6.75    
+Moises Henriques    1       0       7       0       0       0       7       
+Alex Carey (wk)     0       0       0       0       0       0       0       
+Glenn Maxwell       5       0       27      2       0       0       5.4     
+Ashton Agar         10      2       44      0       0       1       4.4     
+Sean Abbott         10      1       84      0       0       1       8.4     
+Adam Zampa          10      1       45      0       0       0       4.5     
+Josh Hazlewood.     10      1       66      2       1       0       6.6     
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+
+The total score at the end of first innings is 302/5
+
+The required run rate for the chasing team (or) the run rate of the batting team at the end of first innings is 6.04
+
